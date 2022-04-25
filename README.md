@@ -1,4 +1,4 @@
-# Fiji Illegal River Extraction Monitoring (Digital Earth Pacific)
+## Fiji Illegal River Extraction Monitoring via Digital Earth Pacific 
 ### UNDP Development Minerals Project Phase 2
 
 Georesources and Energy Programme (GEP), 
